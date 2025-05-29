@@ -214,12 +214,12 @@
 ### 📈 My Stats
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufhussen&radius=16&theme=react&area=true" width="500" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuf-husayn&radius=16&theme=react&area=true" width="500" alt="Activity Graph"/>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufhussen&show_icons=true&theme=dracula&locale=en" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufhussen&theme=dracula&locale=en" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusuf-husayn&show_icons=true&theme=dracula&locale=en" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-husayn&theme=dracula&locale=en" alt="Top Langs" />
 </div>
 
 ---
@@ -227,7 +227,7 @@
 ### 👁️‍🗨️ Profile Views
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yusufhussen/count.svg" alt="Profile Views Counter" />
+  <img src="https://profile-counter.glitch.me/yusuf-husayn/count.svg" alt="Profile Views Counter" />
 </div>
 
 ---
