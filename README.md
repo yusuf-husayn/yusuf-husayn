@@ -193,7 +193,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://discord.gg/VYDSdUkTBa" target="_blank">
+      <a href="https://discord.gg/F6kpfkfyDH" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord"/>
       </a>
     </td>
