@@ -253,6 +253,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-husayn&show_icons=true&locale=en&layout=compact" alt="moosayed1" />
+</p>
+
+
+<p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
 </p>
 </div>
