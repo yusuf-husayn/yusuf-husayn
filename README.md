@@ -248,20 +248,21 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuf-husayn&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@bestrace103's github-readme-streak-stats"/>
 </p>
 
-<p align="center">
-    <img  height="156" src="https://github-readme-stats.vercel.app/api?username=yusuf-husayn&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yusuf-husayn&show_icons=true&theme=radical" alt="Mariam's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-husayn&layout=compact&theme=radical" alt="Mariam's Top Languages" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yusuf-husayn&show_icons=true&theme=radical" alt="Yusuf's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-husayn&layout=compact&theme=radical" alt="Yusuf's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
