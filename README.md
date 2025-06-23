@@ -252,15 +252,16 @@
     <img  height="156" src="https://github-readme-stats.vercel.app/api?username=yusuf-husayn&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-husayn&show_icons=true&locale=en&layout=compact" alt="moosayed1" />
-</p>
-
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
-</p>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yusuf-husayn&show_icons=true&theme=radical" alt="Mariam's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-husayn&layout=compact&theme=radical" alt="Mariam's Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
