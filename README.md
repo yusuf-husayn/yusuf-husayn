@@ -250,18 +250,13 @@
 
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yusuf-husayn&show_icons=true&theme=radical" alt="Yusuf's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-husayn&layout=compact&theme=radical" alt="Yusuf's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/yusuf-husayn/GitHub-Language-Stats">
+    <img src="https://github.com/yusuf-husayn/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/yusuf-husayn/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
+</p>
+
 
 
 ---
