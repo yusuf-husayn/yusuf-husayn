@@ -1,6 +1,3 @@
-<div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=yusuf-husayn&label=Profile%20views&color=0e75b6&style=flat" alt="bestrace103" />
-</div>
 <img src="https://github.com/user-attachments/assets/bdce8fbe-2f2c-4d0c-8808-44737ea23aab" 
      alt="Image" 
      style="width: 100%; height: 20%; display: block; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -290,8 +287,10 @@
 ### 👁️‍🗨️ Profile Views
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yusuf-husayn/count.svg" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=yusuf-husayn&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-husayn" />
 </div>
+
+
 
 ---
 ### 🐍 Snake Game (SVG)
