@@ -287,8 +287,11 @@
 ### 👁️‍🗨️ Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusuf-husayn&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-husayn" />
+  <a href="https://hits.sh/github.com/yusuf-husayn/">
+    <img alt="Hits" src="https://hits.sh/github.com/yusuf-husayn.svg?style=flat-square&label=Profile%20Views&color=0e75b6">
+  </a>
 </div>
+
 
 
 
