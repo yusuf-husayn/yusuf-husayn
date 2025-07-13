@@ -188,40 +188,13 @@
       </a>
     </td>
     <td>
-      <a href="https://t.me/Yusuf_Mu_Husayn" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" alt="Telegram"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.facebook.com/profile.php?id=100092586386026" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0077FF&logoColor=white&style=for-the-badge" alt="Facebook"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://x.com/hu37151987" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter"/>
-      </a>
-    </td>
-    <td>
       <a href="mailto:yusufmohammadhussein@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://discord.gg/F6kpfkfyDH" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/yusuf_husayn1.2/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="Instagram"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://wa.me/201288560851" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" alt="WhatsApp"/>
       </a>
     </td>
     <td>
@@ -230,20 +203,8 @@
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/@joe5128-v5x" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" alt="YouTube"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://www.reddit.com/user/Abyss_Blade" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge" alt="Reddit"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.tiktok.com/@joe466993" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" alt="TikTok"/>
       </a>
     </td>
     <td>
