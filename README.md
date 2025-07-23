@@ -225,7 +225,7 @@
 
 ---
 
-### 📈 My Stats
+### <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> My Stats
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <p align="center">
