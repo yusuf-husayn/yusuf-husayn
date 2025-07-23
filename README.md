@@ -1,6 +1,11 @@
-<img src="https://github.com/user-attachments/assets/bdce8fbe-2f2c-4d0c-8808-44737ea23aab" 
-     alt="Image" 
-     style="width: 100%; height: 20%; display: block; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div align="center">
+  <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/assets/40190772/8f0accf5-b4a7-497f-98f2-638566b68b3b" alt="Full-time Ninja" />
+</div>
+
+<div align="center">
+
+**"Premature optimization is the root of all evil"**
+
 
 <h1 align="center">👋 Hi, I'm Yusuf Muhammad — Cybersecurity Student from Egypt</h1>
 
