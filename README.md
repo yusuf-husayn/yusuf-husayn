@@ -6,6 +6,7 @@
 
 **"Premature optimization is the root of all evil"**
 
+</div>
 
 <h1 align="center">👋 Hi, I'm Yusuf Muhammad — Cybersecurity Student from Egypt</h1>
 
