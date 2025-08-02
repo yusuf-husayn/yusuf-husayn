@@ -194,6 +194,11 @@
       </a>
     </td>
     <td>
+  <a href="https://x.com/hu37151987" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter"/>
+  </a>
+</td>
+    <td>
       <a href="mailto:yusufmohammadhussein@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail"/>
       </a>
