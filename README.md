@@ -242,18 +242,17 @@
 
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yusuf-husayn&show_icons=true&theme=radical" alt="Yusuf's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-husayn&layout=compact&theme=radical" alt="Yusuf's Top Languages" />
-      </td>
-    </tr>
-  </table>
+<div align="center">  
+  <img width="45%" height="250px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yusuf-husayn&theme=2077" alt="Top language per repo"/>
+  <img width="45%" height="250px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yusuf-husayn&theme=2077" alt="Top language per commit"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
+</div>
+
 
 
 
