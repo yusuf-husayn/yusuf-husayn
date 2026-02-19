@@ -34,7 +34,7 @@
 
 <table align="center">
 
-<!-- C++ - Codeforces - HackerRank - StackOverflow - Neovim - Obsidian -->
+<!-- C++ - Codeforces - HackerRank - StackOverflow - THM - Obsidian -->
 <tr>
   <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
@@ -59,9 +59,12 @@
     </a>
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=neovim" width="65" height="65" alt="Neovim" />
-    <br>Neovim
-  </td>
+  <a href="https://tryhackme.com/p/0xwaterblade" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tryhackme.svg" width="65" height="65" alt="TryHackMe" />
+    <br>TryHackMe
+  </a>
+</td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=obsidian" width="65" height="65" alt="Obsidian" />
     <br>Obsidian
@@ -124,15 +127,15 @@
   </td>
 </tr>
 
-<!-- VS Code - Eclipse - CLion - WebStorm - PyCharm - IntelliJ -->
+<!-- VS Code - Neovim - CLion - WebStorm - PyCharm - IntelliJ -->
 <tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
     <br>VS Code
   </td>
   <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/eclipseide.svg" width="65" height="65" alt="Eclipse" />
-    <br>Eclipse
+    <img src="https://skillicons.dev/icons?i=neovim" width="65" height="65" alt="Neovim" />
+    <br>Neovim
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=clion" width="65" height="65" alt="CLion" />
