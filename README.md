@@ -217,7 +217,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.reddit.com/user/Abyss_Blade" target="_blank">
+      <a href="https://www.reddit.com/user/0xwaterblade" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge" alt="Reddit"/>
       </a>
     </td>
