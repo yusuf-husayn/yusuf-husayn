@@ -197,7 +197,7 @@
       </a>
     </td>
     <td>
-  <a href="https://x.com/hu37151987" target="_blank">
+  <a href="https://x.com/0xwaterblade" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter"/>
   </a>
 </td>
