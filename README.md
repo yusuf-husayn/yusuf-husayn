@@ -261,12 +261,12 @@
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/yusufmuhammad-eg/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
       </a>
     </td>
     <td>
   <a href="https://x.com/0xwaterblade" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
 </td>
     <td>
@@ -294,6 +294,12 @@
         <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=E60023&logoColor=white&style=for-the-badge" alt="Pinterest"/>
       </a>
     </td>
+    <td>
+  <a href="https://medium.com/@0xwaterblade" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" alt="Medium"/>
+  </a>
+</td>
+    
   </tr>
 </table>
 
@@ -315,7 +321,9 @@
   <img width="45%" height="250px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yusuf-husayn&theme=2077" alt="Top language per commit"/>
 </div>
 
-<br>
+<div align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=yusuf-husayn&theme=tokyonight&hide_border=true" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
