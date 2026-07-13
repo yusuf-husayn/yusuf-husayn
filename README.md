@@ -139,16 +139,25 @@
   </tr>
   <tr align="center">
     <td width="96">
-      <img src="https://skillicons.dev/icons?i=windows" width="60" height="60" alt="Windows" />
-      <br>Windows
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" width="60" height="60" alt="Manjaro" />
+  <br>Manjaro
     </td>
     <td width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60" height="60" alt="Kali Linux" />
       <br>Kali Linux
     </td>
-    <td width="96"></td>
-    <td width="96"></td>
-    <td width="96"></td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=mint" width="60" height="60" alt="Linux Mint" />
+       <br>Mint
+    </td>
+    <td width="96">
+     <img src="https://cdn.simpleicons.org/zorin" width="60" height="60" alt="Zorin OS" />
+  <br>Zorin
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=windows" width="60" height="60" alt="Windows" />
+      <br>Windows 11
+    </td>
   </tr>
   <tr align="center">
     <th colspan="5">🧑‍💻 Editors & IDEs</th>
