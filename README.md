@@ -33,156 +33,224 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Tech Stack Tools & Skills
 
 <table align="center">
+  <tr align="center">
+    <th colspan="5">💻 Programming Languages</th>
+  </tr>
+  <tr align="center">
+    <td width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" height="60" alt="C++" />
+      <br>C++
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="C" />
+      <br>C
+    </td>
+    <td width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
+      <br>Python
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash" />
+      <br>Bash
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=lua" width="60" height="60" alt="Lua" />
+      <br>Lua
+    </td>
+  </tr>
+    <tr align="center">
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
+      <br>HTML
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+      <br>CSS
+    </td>
+    <td width="96"></td>
+    <td width="96"></td>
+    <td width="96"></td>
+  </tr>
 
-<!-- C++ - Codeforces - HackerRank - StackOverflow - THM - Obsidian -->
-<tr>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
-    <br>C++
-  </td>
-  <td align="center" width="96">
-    <a href="https://codeforces.com/profile/joe1.9">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="65" alt="Codeforces" />
-      <br>Codeforces
-    </a>
-  </td>
-  <td align="center" width="96">
-    <a href="https://www.hackerrank.com/profile/yusufmohammadhu1" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="65" alt="HackerRank" />
-      <br>HackerRank
-    </a>
-  </td>
-  <td align="center" width="96">
-    <a href="https://stackoverflow.com/users/28591458/yusuf-mohammad-hussein" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="65" alt="Stack Overflow" />
-      <br>Stack Overflow
-    </a>
-  </td>
-  <td align="center" width="96">
-  <a href="https://tryhackme.com/p/0xwaterblade" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tryhackme.svg" width="65" height="65" alt="TryHackMe" />
-    <br>TryHackMe
-  </a>
-</td>
+  <tr align="center">
+    <th colspan="5">🛡️ Cybersecurity</th>
+  </tr>
+  <tr align="center">
+    <td width="96">
+      <img src="https://cdn.simpleicons.org/vmware/0080FF" width="60" height="60" alt="VMware" />
+      <br>VMware
+    </td>
+    <td width="96">
+      <img src="https://cdn.simpleicons.org/portswigger/FF6633" width="65" height="65" alt="Burp Suite" />
+      <br>Burp Suite
+    </td>
+    <td width="96">
+      <img src="https://cdn.simpleicons.org/wireshark" width="60" height="60" alt="Wireshark" />
+      <br>Wireshark
+    </td>
+    <td width="96">
+      <a href="https://tryhackme.com/p/0xwaterblade">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tryhackme.svg" width="60" height="60" alt="TryHackMe" />
+        <br>TryHackMe
+      </a>
+    </td>
+    <td width="96">
+      <a href="https://profile.hackthebox.com/profile/019c57fd-d8b7-727f-9b28-a01e9c42f349">
+        <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="60" height="60" alt="Hack The Box" />
+        <br>Hack The Box
+      </a>
+    </td>
+  </tr>
+    <tr align="center">
+    <td width="96">
+      <img src="https://cdn.simpleicons.org/metasploit/0080FF" width="60" height="60" alt="Metasploit" />
+      <br>Metasploit
+    </td>
+    <td width="96"></td>
+    <td width="96"></td>
+    <td width="96"></td>
+    <td width="96"></td>
+  </tr>
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=obsidian" width="65" height="65" alt="Obsidian" />
-    <br>Obsidian
-  </td>
-</tr>
+  <tr align="center">
+    <th colspan="5">🖥️ Operating Systems</th>
+  </tr>
+  <tr align="center">
+    <td width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="60" height="60" alt="Linux" />
+      <br>Linux
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=arch" width="60" height="60" alt="Arch Linux" />
+      <br>Arch Linux
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="60" height="60" alt="Ubuntu" />
+      <br>Ubuntu
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=debian" width="60" height="60" alt="Debian" />
+      <br>Debian
+    </td>
+    <td width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="60" height="60" alt="Fedora" />
+      <br>Fedora
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=windows" width="60" height="60" alt="Windows" />
+      <br>Windows
+    </td>
+    <td width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60" height="60" alt="Kali Linux" />
+      <br>Kali Linux
+    </td>
+    <td width="96"></td>
+    <td width="96"></td>
+    <td width="96"></td>
+  </tr>
+  <tr align="center">
+    <th colspan="5">🧑‍💻 Editors & IDEs</th>
+  </tr>
+  <tr align="center">
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=neovim" width="60" height="60" alt="Neovim" />
+      <br>Neovim
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=vim" width="60" height="60" alt="Vim" />
+      <br>Vim
+    </td>
+    <td width="96">
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gnu-nano.svg" width="60" height="60" alt="nano" />
+      <br>nano
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=clion" width="60" height="60" alt="CLion" />
+      <br>CLion
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=pycharm" width="60" height="60" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=webstorm" width="60" height="60" alt="WebStorm" />
+      <br>WebStorm
+    </td>
+    <td width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+    <td width="96"></td>
+  </tr>
 
-<!-- Vim - Python - Bash - C - GitHub - Git -->
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="Vim" />
-    <br>Vim
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-    <br>Python
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
-    <br>Bash
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-    <br>C
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-    <br>GitHub
-  </td>
-  <td align="center" width="96">
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
-    <br>Git
-  </td>
-</tr>
+  <tr align="center">
+    <th colspan="5">🛠️ Development Tools</th>
+  </tr>
+  <tr align="center">
+    <td width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
+      <br>Git
+    </td>
+    <td width="96">
+      <img src="https://skillicons.dev/icons?i=obsidian" width="60" height="60" alt="Obsidian" />
+      <br>Obsidian
+    </td>
+    <td width="96">
+      <a href="https://stellar-triangle-829.notion.site/Cyber-Security-38d4bb03d98b8022ad3bf386bfd164c7?source=copy_link">
+        <img src="https://skillicons.dev/icons?i=notion" width="60" height="60" alt="Notion" />
+        <br>Notion
+      </a>
+    </td>
+    <td width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="60" height="60" alt="GIMP" />
+      <br>GIMP
+    </td>
+  </tr>
 
-<!-- Lua - HTML5 - CSS - Notion - Gimp - Canva -->
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=lua" width="65" height="65" alt="Lua" />
-    <br>Lua
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-    <br>HTML5
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
-    <br>CSS
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=notion" width="65" height="65" alt="Notion" />
-    <br>Notion
-  </td>
-  <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" height="65" alt="Gimp" />
-    <br>Gimp
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="65" height="65" alt="Canva" />
-    <br>Canva
-  </td>
-</tr>
-
-<!-- VS Code - Neovim - CLion - WebStorm - PyCharm - IntelliJ -->
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-    <br>VS Code
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=neovim" width="65" height="65" alt="Neovim" />
-    <br>Neovim
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=clion" width="65" height="65" alt="CLion" />
-    <br>CLion
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=webstorm" width="65" height="65" alt="WebStorm" />
-    <br>WebStorm
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" />
-    <br>PyCharm
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="65" height="65" alt="IntelliJ" />
-    <br>IntelliJ
-  </td>
-</tr>
-
-<!-- Jupyter - Linux - Ubuntu - Kali Linux - Debian - Fedora -->
-<tr>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter" />
-    <br>Jupyter
-  </td>
-  <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="65" height="65" alt="Linux" />
-    <br>Linux
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ubuntu" width="65" height="65" alt="Ubuntu" />
-    <br>Ubuntu
-  </td>
-  <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="65" height="65" alt="Kali Linux" />
-    <br>Kali Linux
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=debian" width="65" height="65" alt="Debian" />
-    <br>Debian
-  </td>
-  <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="65" height="65" alt="Fedora" />
-    <br>Fedora
-  </td>
-</tr>
-
+  <tr align="center">
+    <th colspan="5">🌐 Community & Profiles</th>
+  </tr>
+  <tr align="center">
+    <td width="96">
+      <a href="https://codeforces.com/profile/joe1.9">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="60" height="60" alt="Codeforces" />
+        <br>Codeforces
+      </a>
+    </td>
+    <td width="96">
+      <a href="https://www.hackerrank.com/profile/0xwaterbladwe">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60" height="60" alt="HackerRank" />
+        <br>HackerRank
+      </a>
+    </td>
+    <td width="96">
+      <a href="https://stackoverflow.com/users/28591458/yusuf-mohammad-hussein">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="60" height="60" alt="Stack Overflow" />
+        <br>Stack Overflow
+      </a>
+    </td>
+    <td width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="60" alt="Canva" />
+      <br>Canva
+    </td>
+    <td width="96"></td>
+  </tr>
 </table>
 
 ---
