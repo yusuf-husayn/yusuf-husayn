@@ -148,11 +148,11 @@
     </td>
     <td width="96">
       <img src="https://skillicons.dev/icons?i=mint" width="60" height="60" alt="Linux Mint" />
-       <br>Mint
+       <br>Linux Mint
     </td>
     <td width="96">
      <img src="https://cdn.simpleicons.org/zorin" width="60" height="60" alt="Zorin OS" />
-  <br>Zorin
+  <br>Zorin OS
     </td>
     <td width="96">
       <img src="https://skillicons.dev/icons?i=windows" width="60" height="60" alt="Windows" />
