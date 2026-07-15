@@ -323,13 +323,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuf-husayn&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@bestrace103's github-readme-streak-stats"/>
 </p>
 
-
-
-<div align="center">  
-  <img width="45%" height="250px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yusuf-husayn&theme=2077" alt="Top language per repo"/>
-  <img width="45%" height="250px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yusuf-husayn&theme=2077" alt="Top language per commit"/>
-</div>
-
 <div align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=yusuf-husayn&theme=tokyonight&hide_border=true" />
 </div>
@@ -337,9 +330,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
 </div>
-
-
-
 
 ---
 
