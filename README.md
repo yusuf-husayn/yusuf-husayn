@@ -221,7 +221,7 @@
       <br>Obsidian
     </td>
     <td width="96">
-      <a href="https://stellar-triangle-829.notion.site/Cyber-Security-38d4bb03d98b8022ad3bf386bfd164c7?source=copy_link">
+      <a href="https://0xwaterblade.notion.site/Knowledge-Base-38d4bb03d98b8022ad3bf386bfd164c7?source=copy_link">
         <img src="https://skillicons.dev/icons?i=notion" width="60" height="60" alt="Notion" />
         <br>Notion
       </a>
