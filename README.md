@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">  
-    <img src="https://github-trophies.vercel.app/?username=yusuf-husayn&margin-h=10&margin-w=10&theme=algolia" alt="bestrace103" />
+    <img src="https://github-trophies.vercel.app/?username=0xWaterBlade&margin-h=10&margin-w=10&theme=algolia" alt="bestrace103" />
 </p>
 
 <h2 align="left" color="cornflowerblue">
@@ -89,13 +89,13 @@
       <br>Wireshark
     </td>
     <td width="96">
-      <a href="https://tryhackme.com/p/0xwaterblade">
+      <a href="https://tryhackme.com/p/0xWaterBlade">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tryhackme.svg" width="60" height="60" alt="TryHackMe" />
         <br>TryHackMe
       </a>
     </td>
     <td width="96">
-      <a href="https://profile.hackthebox.com/profile/019c57fd-d8b7-727f-9b28-a01e9c42f349">
+      <a href="https://profile.hackthebox.com/profile/019c57fd-d8b7-727f-9b28-a01e9c42f349?utm_medium=copy_url">
         <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="60" height="60" alt="Hack The Box" />
         <br>Hack The Box
       </a>
@@ -269,12 +269,12 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/yusufmuhammad-eg/" target="_blank">
+      <a href="https://www.linkedin.com/in/0xWaterBlade" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
     <td>
-  <a href="https://x.com/0xwaterblade" target="_blank">
+  <a href="https://x.com/0xWaterBlade" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
 </td>
@@ -299,7 +299,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.pinterest.com/yusufmohammadhussein" target="_blank">
+      <a href="https://www.pinterest.com/0xwaterblade" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=E60023&logoColor=white&style=for-the-badge" alt="Pinterest"/>
       </a>
     </td>
@@ -321,7 +321,7 @@
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
 <div align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=yusuf-husayn&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=0xWaterBlade&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -333,7 +333,7 @@
 ### 👁️‍🗨️ Profile Views
 
 <div align="center">
-  <a href="https://hits.sh/github.com/yusuf-husayn/">
+  <a href="https://hits.sh/github.com/0xWaterBlade">
     <img alt="Hits" src="https://hits.sh/github.com/yusuf-husayn.svg?style=flat-square&label=Profile%20Views&color=0e75b6">
   </a>
 </div>
